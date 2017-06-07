@@ -1,5 +1,7 @@
 # Online-Forum
-A forum created using MySQL and PHP that allows users to register, sign in, sign out, create categories and create topics in these categories which users can discuss by replying to the topics. I created it during my first semester in IIIT Allahabad.
+A forum created using MySQL and PHP that allows users to register, sign in, sign out, create categories and create topics in these categories which users can discuss by replying to the topics. 
+
+I created it during my first semester at IIIT Allahabad.
 
 ## How to run it
 Since the forum has been created using PHP and MySQL, it needs to be hosted first. For testing purposes, it can be hosted locally. I mostly use XAMPP to host the forum locally.
